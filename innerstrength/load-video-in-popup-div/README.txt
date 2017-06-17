@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/quartzcontrol/pen/uogax.
+
+ Working on a way to load a youtube video in to a pop-up div, shading out the background. Upon pressing Escape or clicking the wrapper, the video closes and stops. So far this code functions, however, if you know of a better way or have details on optimizing, please feel free to comment. Im still new with Javascript/JQuery so any advice is appreciated.
